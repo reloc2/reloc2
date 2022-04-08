@@ -1,6 +1,12 @@
-### Hi there 👋
+### About me 👋
 
 Here are some ideas to get you started:
+
+C/C++
+Python
+Assembler
+Reverse engineering
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
