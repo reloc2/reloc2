@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-C/C++
-Python
-Assembler
-Reverse engineering
++ C/C++
++ Python
++ Assembler
++ Reverse engineering
 
 
 - 🔭 I’m currently working on ...
@@ -16,4 +16,3 @@ Reverse engineering
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
