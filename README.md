@@ -3,5 +3,5 @@
 ### Hi, I'm Hell02W0rld 👋👋👋
 
 - 🔭 Coding
-- 🌱 RE
+- 🌱 NOT RE
 - 📫 No contact！
