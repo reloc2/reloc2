@@ -2,6 +2,6 @@
 
 ### Hi, I'm Hell02W0rld 👋👋👋
 
-- 🔭 Coding
-- 🌱 NOT RE
-- 📫 No contact！
+-  Coding
+-  NOT RE
+-  No contact！
