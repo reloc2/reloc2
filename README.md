@@ -1,7 +1,7 @@
 ## About me 👋
 
-### Hi, I'm Hell02W0rld 👋👋👋
+### Hi, I'm hell02w0rld 👋👋👋
 
 -  Coding
--  NOT RE
+-  RE
 -  No contact！
