@@ -1,6 +1,6 @@
 ## About me 👋
 
-### Hi, I'm hell02w0rld 👋👋👋
+### Hi, I'm Hell02w0rld 👋👋👋
 
 -  Coding
 -  RE
