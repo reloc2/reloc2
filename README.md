@@ -2,6 +2,6 @@
 
 ### Hi, I'm reloc2 👋👋👋
 
--  Coding
--  RE
+-  Malicious Software Analysis
+-  Reverse Engineer
 -  No contact！
