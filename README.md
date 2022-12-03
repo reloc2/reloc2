@@ -2,6 +2,5 @@
 
 ### Hi, I'm reloc2 👋👋👋
 
--  Security Research Engineer
--  Malicious Software Analysis
+-  RE
 -  No contact！
