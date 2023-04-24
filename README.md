@@ -2,5 +2,4 @@
 
 ### Hi, I'm reloc2 👋👋👋
 
--  Reverse Engineer
--  Antivirus Engineer
+-  low level reverse engineer
