@@ -2,4 +2,4 @@
 
 ### Hi, I'm reloc2 👋👋👋
 
--  low level reverse engineer:)
+-  low level reverse engineer :)
